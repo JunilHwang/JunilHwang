@@ -18,6 +18,14 @@
 - [개발자 로깅 서비스(진행중)](https://github.com/JunilHwang/DKU-Software-Engineering-Logging-Service)
 - [디스코드 + 깃허브 + CMS](https://github.com/JunilHwang/discord-study-bot)
 
+### 📫 SNS
+
+- junil.h@kakao.com
+- [facebook](https://www.facebook.com/profile.php?id=100013271537671)
+- [Instagram](https://www.instagram.com/hwang_junil/?hl=ko)
+- [TIL](https://junilhwang.github.io/TIL/)
+- [Blog](http://junil-hwang.com)
+
 <!--
 **JunilHwang/JunilHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
