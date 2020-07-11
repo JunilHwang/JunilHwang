@@ -21,11 +21,11 @@
 
 ### 📫 SNS
 
-- :email: junil.h@kakao.com
-- :thumbsup: [facebook](https://www.facebook.com/profile.php?id=100013271537671)
-- :heart: [Instagram](https://www.instagram.com/hwang_junil/?hl=ko)
-- ![TIL](https://img.shields.io/badge/-TIL-%23000?logo=GitHub&link=https://junilhwang.github.io/TIL)
-- :house: [Blog](http://junil-hwang.com)
+![email](https://img.shields.io/badge/email-junil.h@kakao.com-%23333?labelColor=%23aaa)
+[![TIL](https://img.shields.io/badge/TIL-https://junilhwang.github.io/TIL/-%23333?labelColor=%23aaa)](https://junilhwang.github.io/TIL)
+[![Blog](https://img.shields.io/badge/Blog-http%3A%2F%2Fjunil--hwang.com-%23333?labelColor=%23aaa)](http://junil-hwang.com)
+[![facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100013271537671)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hwang_junil/?hl=ko)
 
 <!--
 **JunilHwang/JunilHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
