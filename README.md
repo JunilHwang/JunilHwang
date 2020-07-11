@@ -9,6 +9,12 @@
 - :office: [줌인터넷](https://zuminternet.com/) 풀 스택 포털 서비스 개발자 (2019. 11 ~ 현재)
 - :trolleybus: [단국대학교 개발자 스터디](https://github.com/DKU-STUDY) (2020. 04 ~ 현재)
 
+![email](https://img.shields.io/badge/junil.h@kakao.com-yellow?logo=messenger&logoColor=fff)
+[![TIL](https://img.shields.io/badge/TIL-https://junilhwang.github.io/TIL/-%23333?labelColor=%23aaa)](https://junilhwang.github.io/TIL)
+[![Blog](https://img.shields.io/badge/Blog-http%3A%2F%2Fjunil--hwang.com-%23333?labelColor=%23aaa)](http://junil-hwang.com)
+[![facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100013271537671)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hwang_junil/?hl=ko)
+
 ### 🔭 기술스택
 
 ![javascript](https://img.shields.io/badge/Javascript-333)
@@ -23,12 +29,6 @@
 
 - [개발자 로깅 서비스(진행중)](https://github.com/JunilHwang/DKU-Software-Engineering-Logging-Service)
 - [디스코드 + 깃허브 + CMS](https://github.com/JunilHwang/discord-study-bot)
-
-![email](https://img.shields.io/badge/junil.h@kakao.com-yellow?logo=messenger&logoColor=fff)
-[![TIL](https://img.shields.io/badge/TIL-https://junilhwang.github.io/TIL/-%23333?labelColor=%23aaa)](https://junilhwang.github.io/TIL)
-[![Blog](https://img.shields.io/badge/Blog-http%3A%2F%2Fjunil--hwang.com-%23333?labelColor=%23aaa)](http://junil-hwang.com)
-[![facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100013271537671)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hwang_junil/?hl=ko)
 
 <!--
 **JunilHwang/JunilHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
