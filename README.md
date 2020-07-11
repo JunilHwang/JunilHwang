@@ -11,11 +11,8 @@
 
 ### 🔭 기술스택
 
-- Javascript/Typescript
-  - Node.js / express.js / nest.js
-  - Vue.js
-- JAVA
-  - Spring
+- Javascript / Typescript / Vue.js / Node.js / express.js / nest.js / 
+- JAVA / Spring
 
 ### 👯 사이드 프로젝트
 
@@ -27,7 +24,7 @@
 - :email: junil.h@kakao.com
 - :thumbsup: [facebook](https://www.facebook.com/profile.php?id=100013271537671)
 - :heart: [Instagram](https://www.instagram.com/hwang_junil/?hl=ko)
-- :sunny: [TIL](https://junilhwang.github.io/TIL/)
+- ![TIL](https://img.shields.io/badge/-TIL-%23000?logo=GitHub&link=https://junilhwang.github.io/TIL)
 - :house: [Blog](http://junil-hwang.com)
 
 <!--
