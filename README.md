@@ -11,21 +11,24 @@
 
 ### 🔭 기술스택
 
-- Javascript / Typescript / Vue.js / Node.js / express.js / nest.js / 
-- JAVA / Spring
+![javascript](https://img.shields.io/badge/Javascript-333)
+![typescript](https://img.shields.io/badge/Typescript-333)
+![Vuejs](https://img.shields.io/badge/Vuejs-4fc08d)
+![Nodejs](https://img.shields.io/badge/Nodejs-43853d)
+![Nestjs](https://img.shields.io/badge/Nestjs-ea2845)
+![Java](https://img.shields.io/badge/Java-333)
+![Spring](https://img.shields.io/badge/Spring-6db33f)
 
 ### 👯 사이드 프로젝트
 
 - [개발자 로깅 서비스(진행중)](https://github.com/JunilHwang/DKU-Software-Engineering-Logging-Service)
 - [디스코드 + 깃허브 + CMS](https://github.com/JunilHwang/discord-study-bot)
 
-<div align=center>
-  ![email](https://img.shields.io/badge/email-junil.h@kakao.com-%23333?labelColor=%23aaa)
-  [![TIL](https://img.shields.io/badge/TIL-https://junilhwang.github.io/TIL/-%23333?labelColor=%23aaa)](https://junilhwang.github.io/TIL)
-  [![Blog](https://img.shields.io/badge/Blog-http%3A%2F%2Fjunil--hwang.com-%23333?labelColor=%23aaa)](http://junil-hwang.com)
-  [![facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100013271537671)
-  [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hwang_junil/?hl=ko)
-</div>
+![email](https://img.shields.io/badge/junil.h@kakao.com-yellow?logo=messenger&logoColor=fff)
+[![TIL](https://img.shields.io/badge/TIL-https://junilhwang.github.io/TIL/-%23333?labelColor=%23aaa)](https://junilhwang.github.io/TIL)
+[![Blog](https://img.shields.io/badge/Blog-http%3A%2F%2Fjunil--hwang.com-%23333?labelColor=%23aaa)](http://junil-hwang.com)
+[![facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100013271537671)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hwang_junil/?hl=ko)
 
 <!--
 **JunilHwang/JunilHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
