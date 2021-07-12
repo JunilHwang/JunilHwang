@@ -17,6 +17,10 @@
 [![facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100013271537671)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hwang_junil/?hl=ko)
 
+### Review
+- [2021년 상반기 회고](https://junilhwang.github.io/TIL/Review/2021-year/01-First-Quarter/)
+- [2020년 회고](https://junilhwang.github.io/TIL/Review/2020-year/end/)
+
 ### 🔭 기술스택
 
 ![javascript](https://img.shields.io/badge/Javascript-333)
