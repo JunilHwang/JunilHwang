@@ -18,6 +18,8 @@
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hwang_junil/?hl=ko)
 
 ### 아티클
+- [Vanilla Javascript로 웹 컴포넌트 만들기](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Component/)
+- [Vanilla Javascript로 상태관리 시스템 만들기](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Store/)
 - [🚩 2021년 상반기 회고](https://junilhwang.github.io/TIL/Review/2021-year/01-First-Quarter/)
 - [🚩 2020년 회고](https://junilhwang.github.io/TIL/Review/2020-year/end/)
 
