@@ -2,7 +2,7 @@
 
 [![junilhwang's github stats](https://github-readme-stats.vercel.app/api?username=junilhwang)](https://github.com/junilhwang)
 
-### Junil, Hwang
+### 이력
 
 - :school: 삼일공업고등학교 (2013. 02)
 - :school: 단국대학교 소프트웨어학과 졸업 (2020. 02)
@@ -17,7 +17,7 @@
 [![facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100013271537671)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hwang_junil/?hl=ko)
 
-### Review
+### 아티클
 - [🚩 2021년 상반기 회고](https://junilhwang.github.io/TIL/Review/2021-year/01-First-Quarter/)
 - [🚩 2020년 회고](https://junilhwang.github.io/TIL/Review/2020-year/end/)
 
