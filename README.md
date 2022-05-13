@@ -15,13 +15,14 @@
 - [Vanilla Javascript로 React useState Hook 만들기](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Make-useSate-hook/)
 
 ### 회고
-- **[🚩 2021년 회고](https://junilhwang.github.io/TIL/Review/2021-year/end/)**
+- **[🚩 줌인터넷 회고](https://zuminternet.github.io/zuminternet-review/)**
+- [🚩 2021년 회고](https://junilhwang.github.io/TIL/Review/2021-year/end/)
 - [🚩 2021년 상반기 회고](https://junilhwang.github.io/TIL/Review/2021-year/01-First-Quarter/)
 - [🚩 2020년 회고](https://junilhwang.github.io/TIL/Review/2020-year/end/)
 
 ### 이력
 
-- :office: [줌인터넷](https://zuminternet.com/) 프론트엔드 파트리더 (2021. 07 ~ 현재)
+- :office: [줌인터넷](https://zuminternet.com/) 프론트엔드 파트리더 (2021. 07 ~ 2022. 05)
 - :office: [줌인터넷](https://zuminternet.com/) 풀 스택 포털 서비스 개발자 (2019. 11 ~ 2021. 06)
 - :office: [디자인톡톡](http://designtalktalk.com/home/) 웹 개발자 (2016. 09 ~ 2018.02)
 - :office: [서울디지텍고등학교](http://home.sdh.hs.kr/index.do) 웹 개발 강사 (2014. 02 ~ 2014.11)
