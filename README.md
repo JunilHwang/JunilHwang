@@ -22,6 +22,7 @@
 
 ### 이력
 
+- :office: [네이버](https://navercorp.com/) SmartStudio HomeBuilder (2021. 06 ~ 현재)
 - :office: [줌인터넷](https://zuminternet.com/) 프론트엔드 파트리더 (2021. 07 ~ 2022. 05)
 - :office: [줌인터넷](https://zuminternet.com/) 풀 스택 포털 서비스 개발자 (2019. 11 ~ 2021. 06)
 - :office: [디자인톡톡](http://designtalktalk.com/home/) 웹 개발자 (2016. 09 ~ 2018.02)
