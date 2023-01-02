@@ -1,7 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunilhwang)](https://hits.seeyoufarm.com)
 
-[![junilhwang's github stats](https://github-readme-stats.vercel.app/api?username=junilhwang)](https://github.com/junilhwang)
-
 
 ### 아티클
 - **[단국대학교 강의 시간표를 제공하는 서비스를 만들자](https://junilhwang.github.io/TIL/side-project/dku-schedule-manager/)**
@@ -15,6 +13,7 @@
 - [Vanilla Javascript로 React useState Hook 만들기](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Make-useSate-hook/)
 
 ### 회고
+- [🚩 2022년 회고](https://junilhwang.github.io/TIL/Review/2022-year/end/)
 - **[🚩 줌인터넷 회고](https://zuminternet.github.io/zuminternet-review/)**
 - [🚩 2021년 회고](https://junilhwang.github.io/TIL/Review/2021-year/end/)
 - [🚩 2021년 상반기 회고](https://junilhwang.github.io/TIL/Review/2021-year/01-First-Quarter/)
