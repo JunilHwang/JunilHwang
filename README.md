@@ -7,7 +7,6 @@
 - [Zum Portal Core JS 소개](https://zuminternet.github.io/zum-portal-core-js/)
 - [NestJS Custom Caching Decorator 만들기](https://zuminternet.github.io/nestjs-custom-decorator/)
 - [Vue SSR 제대로 적용하기 (feat. Vanilla SSR)](https://zuminternet.github.io/vue-ssr/)
-- [주니어 프론트엔드 개발자의 채용 프로세스 참여 후기](https://zuminternet.github.io/zum-front-recurit-review/)
 - [Vanilla Javascript로 웹 컴포넌트 만들기](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Component/)
 - [Vanilla Javascript로 상태관리 시스템 만들기](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Store/)
 - [Vanilla Javascript로 가상돔(VirtualDOM) 만들기](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Virtual-DOM/)
@@ -15,8 +14,9 @@
 
 ### 회고
 - **[🚩 2022년 회고](https://junilhwang.github.io/TIL/Review/2022-year/end/)**
-- [🚩 줌인터넷 회고](https://zuminternet.github.io/zuminternet-review/)
+- [🚩 인프런 심야 FE 네트워킹 후기](https://junilhwang.github.io/TIL/writing/%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%8B%AC%EC%95%BC-FE-%ED%9B%84%EA%B8%B0/)
 - [🚩 2021년 회고](https://junilhwang.github.io/TIL/Review/2021-year/end/)
+- [🚩 주니어 프론트엔드 개발자의 채용 프로세스 참여 후기](https://zuminternet.github.io/zum-front-recurit-review/)
 - [🚩 2021년 상반기 회고](https://junilhwang.github.io/TIL/Review/2021-year/01-First-Quarter/)
 - [🚩 2020년 회고](https://junilhwang.github.io/TIL/Review/2020-year/end/)
 
