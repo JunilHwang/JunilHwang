@@ -1,9 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunilhwang)](https://hits.seeyoufarm.com)
 
 
-### 아티클
-- [프레임워크 없이 만드는 SSR](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Server-Side-Rendering/)
-- **[단국대학교 강의 시간표를 제공하는 서비스를 만들자](https://junilhwang.github.io/TIL/side-project/dku-schedule-manager/)**
+### 기술 아티클
+- **[프레임워크 없이 만드는 SSR](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Server-Side-Rendering/)**
+- [단국대학교 강의 시간표를 제공하는 서비스를 만들자](https://junilhwang.github.io/TIL/side-project/dku-schedule-manager/)
 - [Zum Portal Core JS 소개](https://zuminternet.github.io/zum-portal-core-js/)
 - [NestJS Custom Caching Decorator 만들기](https://zuminternet.github.io/nestjs-custom-decorator/)
 - [Vue SSR 제대로 적용하기 (feat. Vanilla SSR)](https://zuminternet.github.io/vue-ssr/)
