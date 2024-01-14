@@ -12,6 +12,9 @@
 - [Vanilla Javascript로 가상돔(VirtualDOM) 만들기](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Virtual-DOM/)
 - [Vanilla Javascript로 React useState Hook 만들기](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Make-useSate-hook/)
 
+### 생각
+- **[2023년을 돌아보며 생각한 개발자로 취업하기](https://junilhwang.github.io/TIL/writing/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EC%A4%80/)**
+
 ### 회고
 - **[🚩 2023년 회고](https://junilhwang.github.io/TIL/Review/2023-year/end/)**
 - [🚩 2022년 회고](https://junilhwang.github.io/TIL/Review/2022-year/end/)
