@@ -25,4 +25,4 @@
 ![Email](https://img.shields.io/badge/junil.h@kakao.com-yellow?logo=messenger&logoColor=fff)
 [![Blog](https://img.shields.io/badge/TIL-https://junilhwang.github.io/TIL/-%23333?labelColor=%23aaa)](https://junilhwang.github.io/TIL)
 [![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100013271537671)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hwang_junil/?hl=ko)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/junil._.meow/?hl=ko)
