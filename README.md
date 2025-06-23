@@ -1,5 +1,6 @@
 ### 기술 아티클
-- **[프레임워크 없이 만드는 SSR](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Server-Side-Rendering/)**
+- **[요구사항의 변화로 알아가는 클린코드](https://junilhwang.github.io/TIL/clean-code/as-requirements-change/)**
+- [프레임워크 없이 만드는 SSR](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Server-Side-Rendering/)
 - [단국대학교 강의 시간표를 제공하는 서비스를 만들자](https://junilhwang.github.io/TIL/side-project/dku-schedule-manager/)
 - [Zum Portal Core JS 소개](https://zuminternet.github.io/zum-portal-core-js/)
 - [NestJS Custom Caching Decorator 만들기](https://zuminternet.github.io/nestjs-custom-decorator/)
