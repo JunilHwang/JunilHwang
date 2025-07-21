@@ -1,4 +1,4 @@
-"내가 할 수 있는 일을, 우리가 할 수 있게"
+**"내가 할 수 있는 일을, 우리가 할 수 있게"**
 
 ### 기술 아티클
 - **[요구사항의 변화로 알아가는 클린코드](https://junilhwang.github.io/TIL/clean-code/as-requirements-change/)**
