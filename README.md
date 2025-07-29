@@ -1,6 +1,11 @@
 **"내가 할 수 있는 일을, 우리가 할 수 있게"**
 
+### 클린코드 조각모음
+
+- **[추상화를-정렬하기](https://junilhwang.github.io/TIL/clean-code/%EC%A1%B0%EA%B0%81%EB%AA%A8%EC%9D%8C/%EC%B6%94%EC%83%81%ED%99%94%EB%A5%BC-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/)**
+
 ### 기술 아티클
+
 - **[요구사항의 변화로 알아가는 클린코드](https://junilhwang.github.io/TIL/clean-code/as-requirements-change/)**
 - [프레임워크 없이 만드는 SSR](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Server-Side-Rendering/)
 - [단국대학교 강의 시간표를 제공하는 서비스를 만들자](https://junilhwang.github.io/TIL/side-project/dku-schedule-manager/)
