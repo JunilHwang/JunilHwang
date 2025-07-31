@@ -2,8 +2,8 @@
 
 ### 클린코드 조각모음
 
-- **[추상화를 정렬하기](https://junilhwang.github.io/TIL/clean-code/%EC%A1%B0%EA%B0%81%EB%AA%A8%EC%9D%8C/%EC%B6%94%EC%83%81%ED%99%94%EB%A5%BC-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/)**
-- **[이벤트와 함수는 다르다](https://junilhwang.github.io/TIL/clean-code/%EC%A1%B0%EA%B0%81%EB%AA%A8%EC%9D%8C/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%99%80_%ED%95%A8%EC%88%98%EB%8A%94_%EB%8B%A4%EB%A5%B4%EB%8B%A4/)**
+- [이벤트와 함수는 다르다](https://junilhwang.github.io/TIL/clean-code/%EC%A1%B0%EA%B0%81%EB%AA%A8%EC%9D%8C/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%99%80_%ED%95%A8%EC%88%98%EB%8A%94_%EB%8B%A4%EB%A5%B4%EB%8B%A4/)
+- 추상화를 정렬하기](https://junilhwang.github.io/TIL/clean-code/%EC%A1%B0%EA%B0%81%EB%AA%A8%EC%9D%8C/%EC%B6%94%EC%83%81%ED%99%94%EB%A5%BC-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/)
 
 ### 기술 아티클
 
