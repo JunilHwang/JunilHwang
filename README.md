@@ -19,10 +19,11 @@
 - [Vanilla Javascript로 React useState Hook 만들기](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Make-useSate-hook/)
 
 ### 생각
-- **[2023년을 돌아보며 생각한 개발자로 취업하기](https://junilhwang.github.io/TIL/writing/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EC%A4%80/)**
+- **[변화는 가시화된 행동에서 시작된다](https://junilhwang.github.io/TIL/writing/%EB%B3%80%ED%99%94%EB%8A%94-%EA%B0%80%EC%8B%9C%ED%99%94%EB%90%9C-%ED%96%89%EB%8F%99%EC%97%90%EC%84%9C-%EC%8B%9C%EC%9E%91%EB%90%9C%EB%8B%A4/)**
+- [2023년을 돌아보며 생각한 개발자로 취업하기](https://junilhwang.github.io/TIL/writing/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EC%A4%80/)
 
 ### 회고
-- [🚩 2024년 회고](https://junilhwang.github.io/TIL/Review/2024-year/end/)
+- **[🚩 2024년 회고](https://junilhwang.github.io/TIL/Review/2024-year/end/)**
 - [🚩 2023년 회고](https://junilhwang.github.io/TIL/Review/2023-year/end/)
 - [🚩 2022년 회고](https://junilhwang.github.io/TIL/Review/2022-year/end/)
 - [🚩 인프런 심야 FE 네트워킹 후기](https://junilhwang.github.io/TIL/writing/%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%8B%AC%EC%95%BC-FE-%ED%9B%84%EA%B8%B0/)
